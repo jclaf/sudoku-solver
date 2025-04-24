@@ -1,4 +1,4 @@
-# sudoku-solver
+# Sudoku solver
 
 - **Ce code résout un Sudoku en utilisant le backtracking, une méthode systématique qui essaie toutes les possibilités et revient en arrière si nécessaire.**
 - **La classe `Board` gère l’affichage, la recherche de cases vides, la validation des coups et la résolution.**
